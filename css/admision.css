@@ -1,0 +1,47 @@
+.unmsm-banner {
+    background-color: #8B0000;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size: 24px; 
+}
+
+.container-options {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.option {
+    text-align: center;
+    margin-bottom: 20px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+    margin-right: 40px;
+}
+
+.option img {
+    height: 150px;
+    width: 150px;
+    margin-bottom: 15px; 
+}
+
+.logo-btn {
+    margin-top: 5px;
+    border: none; 
+    border-radius: 5px;
+    background-color: grey; 
+    color: white; 
+    padding: 5px 10px; 
+    text-align: center;
+}
+
+
+.footer {
+    background-color: #00008B;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
